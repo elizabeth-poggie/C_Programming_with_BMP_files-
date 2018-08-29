@@ -1,4 +1,4 @@
-# BMP file Reader
+# BMP File Experience 
 
 This project was designed to allow students to get comfortable with binary data in C and gain experience in dealing with visual information.
 
