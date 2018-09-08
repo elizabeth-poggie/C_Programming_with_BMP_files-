@@ -250,7 +250,7 @@ int bmp_collage( char* bmp_input1, char* bmp_input2, char* bmp_result, int x_off
   unsigned int what_up_padding = ((width * bpp)/8); //total number of bites in a single row
   unsigned int padding;
 
-  //should our padding be 0 bois?
+  //should our padding be 0?
   if(what_up_padding%4 == 0){
     padding = 0;
   } else {
